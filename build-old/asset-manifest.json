@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6538ce43.css",
+    "main.js": "/static/js/main.ea961bed.js",
+    "static/media/ocean.png": "/static/media/ocean.3b3cdc7810dc8e0bc0fa.png",
+    "static/media/space.png": "/static/media/space.f074e428c9564de2a940.png",
+    "static/media/land.png": "/static/media/land.4fed9cbf2e5d7f8c4d71.png",
+    "static/media/air.png": "/static/media/air.13d05e383b6e3517e838.png",
+    "static/media/dispatch.png": "/static/media/dispatch.492fd7934bf821d0e779.png",
+    "static/media/maritime-room.png": "/static/media/maritime-room.b11dd7e9c64fc34f0978.png",
+    "static/media/pilot.png": "/static/media/pilot.2a1919d316a77bbbfbc9.png",
+    "static/media/maritime.jpeg": "/static/media/maritime.bdd6b35b878767658b67.jpeg",
+    "static/media/c-room.jpg": "/static/media/c-room.d33907fce5a933c06c3b.jpg",
+    "static/media/logo.png": "/static/media/logo.0c8f1b780a9bd49d8d6f.png",
+    "static/media/airspace.jpeg": "/static/media/airspace.08300ac8930c713c18d0.jpeg",
+    "index.html": "/index.html",
+    "main.6538ce43.css.map": "/static/css/main.6538ce43.css.map",
+    "main.ea961bed.js.map": "/static/js/main.ea961bed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6538ce43.css",
+    "static/js/main.ea961bed.js"
+  ]
+}
