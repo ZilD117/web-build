@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/static/js/main.26bafde1.js",
+    "main.js": "/static/js/main.0d62b09c.js",
     "static/media/ocean.png": "/static/media/ocean.3b3cdc7810dc8e0bc0fa.png",
     "static/media/space.png": "/static/media/space.f074e428c9564de2a940.png",
     "static/media/land.png": "/static/media/land.4fed9cbf2e5d7f8c4d71.png",
@@ -13,9 +13,9 @@
     "static/media/logo.png": "/static/media/logo.0c8f1b780a9bd49d8d6f.png",
     "static/media/airspace.jpeg": "/static/media/airspace.08300ac8930c713c18d0.jpeg",
     "index.html": "/index.html",
-    "main.26bafde1.js.map": "/static/js/main.26bafde1.js.map"
+    "main.0d62b09c.js.map": "/static/js/main.0d62b09c.js.map"
   },
   "entrypoints": [
-    "static/js/main.26bafde1.js"
+    "static/js/main.0d62b09c.js"
   ]
 }
